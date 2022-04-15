@@ -1,0 +1,5 @@
+#spring:
+#  data:
+#    elasticsearch:
+#      cluster-name: es01
+#      cluster-nodes: 120.0.0.1:9300
